@@ -1,0 +1,1094 @@
+{
+    "weather": [
+      {
+        "city": "Tokyo",
+        "temperature": 27,
+        "weather": "Rainy",
+        "humidity": 61,
+        "windSpeed": 6,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Delhi",
+        "temperature": 28,
+        "weather": "Rainy",
+        "humidity": 64,
+        "windSpeed": 11,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Shanghai",
+        "temperature": 8,
+        "weather": "Cloudy",
+        "humidity": 74,
+        "windSpeed": 24,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "So Paulo",
+        "temperature": 39,
+        "weather": "Cloudy",
+        "humidity": 43,
+        "windSpeed": 5,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Mumbai",
+        "temperature": 33,
+        "weather": "Rainy",
+        "humidity": 65,
+        "windSpeed": 9,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Cairo",
+        "temperature": 35,
+        "weather": "Rainy",
+        "humidity": 52,
+        "windSpeed": 12,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Beijing",
+        "temperature": 3,
+        "weather": "Cloudy",
+        "humidity": 36,
+        "windSpeed": 15,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Dhaka",
+        "temperature": 27,
+        "weather": "Rainy",
+        "humidity": 31,
+        "windSpeed": 16,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Mexico City",
+        "temperature": -6,
+        "weather": "Rainy",
+        "humidity": 38,
+        "windSpeed": 22,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Osaka",
+        "temperature": 16,
+        "weather": "Cloudy",
+        "humidity": 90,
+        "windSpeed": 24,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "New York",
+        "temperature": 5,
+        "weather": "Cloudy",
+        "humidity": 44,
+        "windSpeed": 25,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Karachi",
+        "temperature": 27,
+        "weather": "Cloudy",
+        "humidity": 69,
+        "windSpeed": 8,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Buenos Aires",
+        "temperature": 32,
+        "weather": "Cloudy",
+        "humidity": 42,
+        "windSpeed": 21,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Chongqing",
+        "temperature": -8,
+        "weather": "Cloudy",
+        "humidity": 86,
+        "windSpeed": 21,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Istanbul",
+        "temperature": 38,
+        "weather": "Rainy",
+        "humidity": 62,
+        "windSpeed": 13,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Kolkata",
+        "temperature": 16,
+        "weather": "Rainy",
+        "humidity": 83,
+        "windSpeed": 16,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Lagos",
+        "temperature": 32,
+        "weather": "Sunny",
+        "humidity": 78,
+        "windSpeed": 6,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/07/icegif-761.gif"
+      }
+      },
+      {
+        "city": "Rio de Janeiro",
+        "temperature": 39,
+        "weather": "Rainy",
+        "humidity": 30,
+        "windSpeed": 23,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Tianjin",
+        "temperature": 11,
+        "weather": "Cloudy",
+        "humidity": 56,
+        "windSpeed": 5,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Kinshasa",
+        "temperature": 32,
+        "weather": "Rainy",
+        "humidity": 82,
+        "windSpeed": 11,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Guangzhou",
+        "temperature": 39,
+        "weather": "Rainy",
+        "humidity": 86,
+        "windSpeed": 14,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Los Angeles",
+        "temperature": 4,
+        "weather": "Rainy",
+        "humidity": 57,
+        "windSpeed": 21,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Moscow",
+        "temperature": 25,
+        "weather": "Rainy",
+        "humidity": 67,
+        "windSpeed": 6,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Shenzhen",
+        "temperature": 10,
+        "weather": "Rainy",
+        "humidity": 84,
+        "windSpeed": 6,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Lahore",
+        "temperature": 34,
+        "weather": "Rainy",
+        "humidity": 47,
+        "windSpeed": 25,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Bangalore",
+        "temperature": 26,
+        "weather": "Cloudy",
+        "humidity": 49,
+        "windSpeed": 11,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Paris",
+        "temperature": 28,
+        "weather": "Cloudy",
+        "humidity": 61,
+        "windSpeed": 9,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Bogota",
+        "temperature": 31,
+        "weather": "Sunny",
+        "humidity": 41,
+        "windSpeed": 5,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/07/icegif-761.gif"
+      }
+      },
+      {
+        "city": "Jakarta",
+        "temperature": 13,
+        "weather": "Cloudy",
+        "humidity": 87,
+        "windSpeed": 23,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Lima",
+        "temperature": 28,
+        "weather": "Sunny",
+        "humidity": 88,
+        "windSpeed": 5,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/07/icegif-761.gif"
+      }
+      },
+      {
+        "city": "Bangkok",
+        "temperature": 25,
+        "weather": "Cloudy",
+        "humidity": 71,
+        "windSpeed": 17,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Seoul",
+        "temperature": 2,
+        "weather": "Cloudy",
+        "humidity": 35,
+        "windSpeed": 20,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Nagoya",
+        "temperature": 13,
+        "weather": "Sunny",
+        "humidity": 59,
+        "windSpeed": 23,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/07/icegif-761.gif"
+      }
+      },
+      {
+        "city": "London",
+        "temperature": 10,
+        "weather": "Cloudy",
+        "humidity": 83,
+        "windSpeed": 19,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Chengdu",
+        "temperature": 35,
+        "weather": "Rainy",
+        "humidity": 42,
+        "windSpeed": 10,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Ho Chi Minh City",
+        "temperature": 17,
+        "weather": "Cloudy",
+        "humidity": 88,
+        "windSpeed": 9,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Wuhan",
+        "temperature": 29,
+        "weather": "Cloudy",
+        "humidity": 90,
+        "windSpeed": 22,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Hyderabad",
+        "temperature": 4,
+        "weather": "Rainy",
+        "humidity": 51,
+        "windSpeed": 13,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Kuala Lumpur",
+        "temperature": -6,
+        "weather": "Rainy",
+        "humidity": 40,
+        "windSpeed": 24,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Chicago",
+        "temperature": 24,
+        "weather": "Rainy",
+        "humidity": 63,
+        "windSpeed": 15,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Tehran",
+        "temperature": 23,
+        "weather": "Rainy",
+        "humidity": 44,
+        "windSpeed": 9,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Luanda",
+        "temperature": 16,
+        "weather": "Cloudy",
+        "humidity": 79,
+        "windSpeed": 17,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Ahmedabad",
+        "temperature": 11,
+        "weather": "Rainy",
+        "humidity": 33,
+        "windSpeed": 17,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Nanjing",
+        "temperature": 16,
+        "weather": "Rainy",
+        "humidity": 47,
+        "windSpeed": 21,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Hong Kong",
+        "temperature": 34,
+        "weather": "Cloudy",
+        "humidity": 41,
+        "windSpeed": 19,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Baghdad",
+        "temperature": -6,
+        "weather": "Cloudy",
+        "humidity": 33,
+        "windSpeed": 17,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Toronto",
+        "temperature": 28,
+        "weather": "Cloudy",
+        "humidity": 54,
+        "windSpeed": 7,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Santiago",
+        "temperature": 12,
+        "weather": "Rainy",
+        "humidity": 58,
+        "windSpeed": 9,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Riyadh",
+        "temperature": 1,
+        "weather": "Cloudy",
+        "humidity": 41,
+        "windSpeed": 18,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Madrid",
+        "temperature": -9,
+        "weather": "Cloudy",
+        "humidity": 70,
+        "windSpeed": 19,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Dallas",
+        "temperature": 7,
+        "weather": "Rainy",
+        "humidity": 37,
+        "windSpeed": 11,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Singapore",
+        "temperature": -8,
+        "weather": "Rainy",
+        "humidity": 72,
+        "windSpeed": 12,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Surat",
+        "temperature": 26,
+        "weather": "Cloudy",
+        "humidity": 70,
+        "windSpeed": 22,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Houston",
+        "temperature": -6,
+        "weather": "Rainy",
+        "humidity": 75,
+        "windSpeed": 5,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Dar es Salaam",
+        "temperature": 22,
+        "weather": "Rainy",
+        "humidity": 68,
+        "windSpeed": 11,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Miami",
+        "temperature": -8,
+        "weather": "Rainy",
+        "humidity": 68,
+        "windSpeed": 5,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Belo Horizonte",
+        "temperature": 10,
+        "weather": "Cloudy",
+        "humidity": 42,
+        "windSpeed": 12,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Philadelphia",
+        "temperature": 18,
+        "weather": "Rainy",
+        "humidity": 75,
+        "windSpeed": 13,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Ankara",
+        "temperature": 1,
+        "weather": "Cloudy",
+        "humidity": 31,
+        "windSpeed": 21,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Brasília",
+        "temperature": 38,
+        "weather": "Rainy",
+        "humidity": 85,
+        "windSpeed": 13,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Atlanta",
+        "temperature": 6,
+        "weather": "Rainy",
+        "humidity": 71,
+        "windSpeed": 15,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Jinan",
+        "temperature": 23,
+        "weather": "Sunny",
+        "humidity": 31,
+        "windSpeed": 6,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/07/icegif-761.gif"
+      }
+      },
+      {
+        "city": "Guadalajara",
+        "temperature": 9,
+        "weather": "Sunny",
+        "humidity": 58,
+        "windSpeed": 25,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/07/icegif-761.gif"
+      }
+      },
+      {
+        "city": "Qingdao",
+        "temperature": 31,
+        "weather": "Sunny",
+        "humidity": 49,
+        "windSpeed": 6,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/07/icegif-761.gif"
+      }
+      },
+      {
+        "city": "Boston",
+        "temperature": 0,
+        "weather": "Rainy",
+        "humidity": 47,
+        "windSpeed": 10,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Taipei",
+        "temperature": 19,
+        "weather": "Rainy",
+        "humidity": 84,
+        "windSpeed": 7,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Kuwait City",
+        "temperature": -6,
+        "weather": "Cloudy",
+        "humidity": 40,
+        "windSpeed": 12,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Berlin",
+        "temperature": 30,
+        "weather": "Rainy",
+        "humidity": 75,
+        "windSpeed": 17,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Rome",
+        "temperature": 38,
+        "weather": "Rainy",
+        "humidity": 42,
+        "windSpeed": 5,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Athens",
+        "temperature": 9,
+        "weather": "Rainy",
+        "humidity": 85,
+        "windSpeed": 24,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Sydney",
+        "temperature": 40,
+        "weather": "Cloudy",
+        "humidity": 75,
+        "windSpeed": 12,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Melbourne",
+        "temperature": -1,
+        "weather": "Cloudy",
+        "humidity": 44,
+        "windSpeed": 13,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Cape Town",
+        "temperature": 38,
+        "weather": "Rainy",
+        "humidity": 59,
+        "windSpeed": 13,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Johannesburg",
+        "temperature": 3,
+        "weather": "Cloudy",
+        "humidity": 79,
+        "windSpeed": 19,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Manila",
+        "temperature": 37,
+        "weather": "Cloudy",
+        "humidity": 36,
+        "windSpeed": 17,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Hanoi",
+        "temperature": 31,
+        "weather": "Rainy",
+        "humidity": 35,
+        "windSpeed": 6,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Abu Dhabi",
+        "temperature": 39,
+        "weather": "Rainy",
+        "humidity": 54,
+        "windSpeed": 21,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Dubai",
+        "temperature": 3,
+        "weather": "Cloudy",
+        "humidity": 70,
+        "windSpeed": 16,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Doha",
+        "temperature": 25,
+        "weather": "Rainy",
+        "humidity": 56,
+        "windSpeed": 15,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Montreal",
+        "temperature": 8,
+        "weather": "Rainy",
+        "humidity": 46,
+        "windSpeed": 16,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "San Francisco",
+        "temperature": 40,
+        "weather": "Cloudy",
+        "humidity": 71,
+        "windSpeed": 24,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Dublin",
+        "temperature": 2,
+        "weather": "Rainy",
+        "humidity": 57,
+        "windSpeed": 24,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Brussels",
+        "temperature": 18,
+        "weather": "Cloudy",
+        "humidity": 65,
+        "windSpeed": 9,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Amsterdam",
+        "temperature": 2,
+        "weather": "Rainy",
+        "humidity": 78,
+        "windSpeed": 8,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Barcelona",
+        "temperature": 3,
+        "weather": "Cloudy",
+        "humidity": 51,
+        "windSpeed": 19,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Munich",
+        "temperature": 17,
+        "weather": "Cloudy",
+        "humidity": 76,
+        "windSpeed": 13,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Vienna",
+        "temperature": 22,
+        "weather": "Cloudy",
+        "humidity": 43,
+        "windSpeed": 12,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Stockholm",
+        "temperature": 22,
+        "weather": "Sunny",
+        "humidity": 49,
+        "windSpeed": 13,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/07/icegif-761.gif"
+      }
+      },
+      {
+        "city": "Oslo",
+        "temperature": 10,
+        "weather": "Cloudy",
+        "humidity": 57,
+        "windSpeed": 15,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Copenhagen",
+        "temperature": 21,
+        "weather": "Rainy",
+        "humidity": 79,
+        "windSpeed": 23,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Helsinki",
+        "temperature": 22,
+        "weather": "Cloudy",
+        "humidity": 61,
+        "windSpeed": 23,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Lisbon",
+        "temperature": 5,
+        "weather": "Cloudy",
+        "humidity": 63,
+        "windSpeed": 12,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Warsaw",
+        "temperature": 27,
+        "weather": "Rainy",
+        "humidity": 83,
+        "windSpeed": 17,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Prague",
+        "temperature": 11,
+        "weather": "Cloudy",
+        "humidity": 64,
+        "windSpeed": 9,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Budapest",
+        "temperature": 7,
+        "weather": "Cloudy",
+        "humidity": 86,
+        "windSpeed": 22,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Bucharest",
+        "temperature": 30,
+        "weather": "Rainy",
+        "humidity": 70,
+        "windSpeed": 13,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+      },
+      {
+        "city": "Zurich",
+        "temperature": 32,
+        "weather": "Cloudy",
+        "humidity": 49,
+        "windSpeed": 15,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Geneva",
+        "temperature": 16,
+        "weather": "Cloudy",
+        "humidity": 84,
+        "windSpeed": 16,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Edinburgh",
+        "temperature": 6,
+        "weather": "Cloudy",
+        "humidity": 85,
+        "windSpeed": 13,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Venice",
+        "temperature": 7,
+        "weather": "Cloudy",
+        "humidity": 52,
+        "windSpeed": 14,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+      },
+      {
+        "city": "Karachi",
+        "temperature": 24,
+        "weather": "Sunny",
+        "humidity": 60,
+        "windSpeed": 12,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/07/icegif-761.gif"
+      }
+    },
+    {
+        "city": "Lahore",
+        "temperature": 18,
+        "weather": "Rainy",
+        "humidity": 75,
+        "windSpeed": 8,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+    },
+    {
+        "city": "Islamabad",
+        "temperature": 15,
+        "weather": "Cloudy",
+        "humidity": 50,
+        "windSpeed": 10,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+    },
+    {
+        "city": "Rawalpindi",
+        "temperature": 16,
+        "weather": "Cloudy",
+        "humidity": 55,
+        "windSpeed": 9,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+    },
+    {
+        "city": "Peshawar",
+        "temperature": 17,
+        "weather": "Sunny",
+        "humidity": 45,
+        "windSpeed": 11,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/07/icegif-761.gif"
+      }
+    },
+    {
+        "city": "Quetta",
+        "temperature": 10,
+        "weather": "Sunny",
+        "humidity": 40,
+        "windSpeed": 7,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/07/icegif-761.gif"
+      }
+    },
+    {
+        "city": "Multan",
+        "temperature": 20,
+        "weather": "Cloudy",
+        "humidity": 70,
+        "windSpeed": 6,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+    },
+    {
+        "city": "Faisalabad",
+        "temperature": 19,
+        "weather": "Cloudy",
+        "humidity": 65,
+        "windSpeed": 5,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2022/06/icegif-1038.gif"
+      }
+    },
+    {
+        "city": "Sialkot",
+        "temperature": 17,
+        "weather": "Rainy",
+        "humidity": 80,
+        "windSpeed": 10,
+        "picture": {
+        "thumbnail": "https://www.icegif.com/wp-content/uploads/2023/08/icegif-896.gif"
+      }
+    }
+    ]
+  }
